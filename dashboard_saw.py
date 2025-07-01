@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler  # Corrected from MinMaxScale
 import plotly.express as px
 
 # Konfigurasi halaman
